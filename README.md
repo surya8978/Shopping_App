@@ -1,4 +1,10 @@
 # Shopping_App
+Front End : Angular 13 (use npm install and ng serve run)
+Backend   : JAVA 11
+Database  : Mongo DB
+Messaging : Kafka
+Deployement: AWS (yml file and Docker file available) 
+    
 ![Screenshot (925)](https://user-images.githubusercontent.com/52568319/210180988-524f583b-48f0-4c1b-8694-2733e71307c5.png)
 ![Screenshot (930)](https://user-images.githubusercontent.com/52568319/210180993-b2eaa259-4ce2-4bea-9385-957a37ceab9d.png)
 ![Screenshot (926)](https://user-images.githubusercontent.com/52568319/210180999-ac9d7ac0-d743-4c6d-9bbd-37302a2118af.png)
